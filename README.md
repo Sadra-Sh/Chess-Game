@@ -10,3 +10,5 @@ This project implements a chess game on the Cyclone V FPGA. It utilizes a VGA di
 - Handling of edge cases like en passant, promotion, stalemate, and draw
 
 This project aims to provide a comprehensive chess-playing experience on FPGA, combining hardware and software to create a fully functional chess game.
+
+Here is the link to the youtube vidoe of my partner and I explain the game and its functionality: https://www.youtube.com/watch?v=fSWClZjh3V8
